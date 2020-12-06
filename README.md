@@ -1,4 +1,4 @@
-## imege
+## image
 <p align="center">
 <img src="https://media.giphy.com/media/FeVg8ViEczcxG/giphy.gif" alt="GIF" width="128" height="128"/>
 </p> 
@@ -37,6 +37,20 @@ Beberapa fitur yang keren
 > npm i 
 > npm i got
 > node index.js
+```
+
+
+
+## JANGAN LUPA SIAP KAN DI BAWAH INI
+```bash
+> Hp/Laptop
+> Termux
+
+Yang paling mantan di bawah ini
+> Kopi
+> UDUT
+
+Mantap 👍😋
 ```
 
 
