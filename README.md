@@ -46,7 +46,9 @@ Beberapa fitur yang keren
 > Hp/Laptop
 > Termux
 
-Yang paling mantan di bawah ini
+Yang paling mantap 
+di bawah ini
+
 > Kopi
 > UDUT
 
