@@ -38,9 +38,11 @@ Beberapa fitur yang keren
 > npm i got
 > node index.js
 
-Tinggal scan QR nya pake hp mu yang satunya
+Tinggal scan QR nya 
+pake hp mu yang satunya
 
-Selamat bersenang-senang dengan bot mu😁
+Selamat bersenang-senang 
+dengan bot mu😁
 ```
 
 
