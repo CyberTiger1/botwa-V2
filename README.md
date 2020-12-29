@@ -51,10 +51,6 @@ dengan bot mu😁
 ```bash
 > Hp/Laptop
 > Termux
-
-Yang paling mantap 
-di bawah ini
-
 > Kopi
 > UDUT
 
