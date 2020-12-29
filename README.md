@@ -37,6 +37,10 @@ Beberapa fitur yang keren
 > npm i 
 > npm i got
 > node index.js
+
+Tinggal scan QR nya pake hp mu yang satunya
+
+Selamat bersenang-senang dengan bot mu😁
 ```
 
 
